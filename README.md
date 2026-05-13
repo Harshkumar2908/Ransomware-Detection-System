@@ -9,7 +9,11 @@ A real-time ransomware detection and monitoring system built using Python and Fl
 - File recovery system
 - Interactive dashboard with graph
 
-## How to Run
+## 🚀 Live Demo
+👉 https://ransomware-detection-app.onrender.com
+
+## 💻 Run Locally
+
 1. Run monitor:
    python monitor/file_monitor.py
 
